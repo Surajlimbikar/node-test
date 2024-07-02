@@ -1,6 +1,0 @@
-npm i csvtojson
-npm i csvtojson
-npm i csvtojson
-npm i csvtojson
-npm i csvtojson
-npm i csvtojson
